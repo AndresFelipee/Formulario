@@ -1,0 +1,14 @@
+.field{
+    border-radius: 10px;
+    border-color: aqua;
+}
+
+form{
+    background-color: rgb(189, 245, 245);
+    border-radius: 10px;
+    color: rgb(49, 0, 0);
+    font-size: 16px;
+    margin: 30px;
+    width: 300px;
+    height: 200px;
+}
